@@ -4,8 +4,8 @@ This work scheduler was created using HTML, CSS and Javascript only, it has the 
 
 Preview
 
-<!-- ![Quiz challenge page](./assets/screenshot.png) -->
+
  
 ## Link to deployed page
 
-<!-- [https://miguel-thethird.github.io/Quiz-Challenge/]  -->
+https://miguel-thethird.github.io/Work-Day-Scheduler/
